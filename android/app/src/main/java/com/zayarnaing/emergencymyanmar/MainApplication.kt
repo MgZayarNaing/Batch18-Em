@@ -1,4 +1,4 @@
-package com.emergencymyanmar
+package com.zayarnaing.emergencymyanmar
 
 import android.app.Application
 import com.facebook.react.PackageList
